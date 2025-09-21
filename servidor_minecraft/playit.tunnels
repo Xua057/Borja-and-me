@@ -1,24 +1,24 @@
 {
   "tcp_alloc": {
     "allowed": 4,
-    "claimed": 1,
-    "desired": 1
+    "claimed": 2,
+    "desired": 2
   },
   "tunnels": [
     {
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "made-alan.gl.joinmc.link",
-          "assigned_srv": "made-alan.gl.joinmc.link",
+          "assigned_domain": "audio-same.gl.joinmc.link",
+          "assigned_srv": "audio-same.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "bab7e1bb-2ef5-48cb-a087-37b099b7499e",
+          "id": "0c30fe33-1d90-4aa1-9e88-e1fa523e3dab",
           "ip_hostname": "211.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 38763,
-          "port_start": 38762,
+          "port_end": 39385,
+          "port_start": 39384,
           "region": "global",
           "static_ip4": "147.185.221.211",
           "static_ip6": "2602:fbaf:0:1::d3",
@@ -26,17 +26,17 @@
         },
         "status": "allocated"
       },
-      "created_at": "2025-09-21T14:20:39.770968Z",
+      "created_at": "2025-09-21T14:51:00.182517Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "3a40c664-40d9-4c93-8558-0280817ab49c",
+      "id": "a545e857-1711-4e08-951e-540aef35543d",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "485e9f2c-46bc-4622-b2c8-f971511642b7",
-          "agent_name": "Borja random",
+          "agent_id": "1ba1c5b3-b93d-44c5-a9a3-fa1a0c27c5e5",
+          "agent_name": "Borja 2",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
